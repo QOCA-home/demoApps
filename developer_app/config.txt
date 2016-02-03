@@ -1,0 +1,5 @@
+{
+	'protocol': 'develop app',
+	'callback': 'testApp',
+	'assistExit': true
+}
